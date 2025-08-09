@@ -1,34 +1,48 @@
-# Heris (Inioluwa)
+# Heris (Inioluwa) — Soul-Coded Heris
 
 Software Engineer at Markt (remote)  
-Software Engineer, Culture and Operations at IsaacTheCreator (remote)
+Software Engineer, Culture & Operations at IsaacTheCreator (remote)
 
-I build human first, culturally aware products and write weekly letters with clear steps you can use today.
+---
 
-## The six pillars
-Mind • Culture • Wealth • Tech • Leadership • Hope
+I build **human-first, culturally anchored digital systems** that serve real people and real contexts.  
+My work is guided by Adlerian psychology — focused on purpose, social interest, and meaningful contribution.  
+I write weekly letters blending philosophy, tech, and culture — with clear, practical steps for growth and impact.
 
-## What I am working on
-- Human first software for real teams and real contexts
-- AI assisted workflows that improve clarity and speed
-- Simple systems that help remote teams align and execute
+---
 
-## Experience in brief
-- Markt  
-  Build software with React and AI assisted workflows. Recent work includes FieldSync for U S HVAC technicians with clear onboarding and practical flows.
+## The Six Pillars  
+**Mind • Culture • Wealth • Tech • Leadership • Hope**
 
-- IsaacTheCreator  
-  Software engineering and culture operations. Builder’s Daily. Friday Flow Recap. A Living Playbook. A structured Discord ecosystem. Outcome first reporting that reduces micromanagement and grows autonomy.
+These are the core domains where I sharpen myself and serve others.
+
+---
+
+## What I’m Working On
+
+- Software that centers people, culture, and purpose  
+- AI-assisted workflows that amplify clarity, alignment, and speed  
+- Simple, elegant systems that enable remote teams to execute with autonomy and impact
+
+---
+
 
 ## Writing
-- Weekly letters on the six pillars  
-  Substack link: https://your‑substack‑link
 
-## How I work
-- Purpose before polish. People before process. Clear steps over noise.
-- Short sentences. Plain language. Results that compound.
+I publish weekly letters exploring the Six Pillars — weaving insight, philosophy, and actionable clarity.  
+[Read on Substack](substack.com/@soulcodedheris)
 
-## Contact
-- X Twitter: https://x.com/your‑handle
-- LinkedIn: https://www.linkedin.com/in/your‑handle
-- Email: your@email
+---
+
+## How I Work
+
+- Purpose before polish  
+- People before process  
+- Clear steps that compound into lasting results  
+- Short sentences, plain language, and relentless focus on impact
+
+---
+
+## Connect with Me
+
+[X (Twitter)](https://x.com/SoulCodedHeris) • [LinkedIn](https://www.linkedin.com/in/soulcodedheris/) • badairoinioluwa578@gmail.com
