@@ -1,34 +1,34 @@
-# 👋🏾 Hey, I'm Heris — Soul-Coded Developer
+# Heris (Inioluwa)
 
-I disappeared for 4 months.
+Software Engineer at Markt (remote)  
+Software Engineer, Culture and Operations at IsaacTheCreator (remote)
 
-Not just from code — from the noise. From the pressure to build without soul.  
-In that silence, something cracked open.  
-I stopped chasing hype. I started listening — to God, to pain, to purpose, to the *tide of opportunity*.
+I build human first, culturally aware products and write weekly letters with clear steps you can use today.
 
-Now I build like I’ve been rebuilt.  
-Every project is a prophecy. Every repo is a reflection.  
-*This isn’t just tech — it’s testimony.*
+## The six pillars
+Mind • Culture • Wealth • Tech • Leadership • Hope
 
----
+## What I am working on
+- Human first software for real teams and real contexts
+- AI assisted workflows that improve clarity and speed
+- Simple systems that help remote teams align and execute
 
-### 🧠 What I’m About
-- *Frontend Dev* (Next.js, Angular, Tailwind, and flow)
-- *Local-first builder* → crafting tools that empower real people, not just algorithms
-- *Adlerian mindset* → growth over ego, contribution over clout
-- *Psychology + Product* → I design with soul, not just specs
+## Experience in brief
+- Markt  
+  Build software with React and AI assisted workflows. Recent work includes FieldSync for U S HVAC technicians with clear onboarding and practical flows.
 
----
+- IsaacTheCreator  
+  Software engineering and culture operations. Builder’s Daily. Friday Flow Recap. A Living Playbook. A structured Discord ecosystem. Outcome first reporting that reduces micromanagement and grows autonomy.
 
-### 🔥 Current Focus
-- Frontend @ Markt — redefining Nigerian e-commerce from the inside out  
-- Building [soul-coded-heris.vercel.app](https://soul-coded-heris.vercel.app/) – my digital sanctuary  
-- Writing & reflecting on tech + purpose on [Substack](https://substack.com/@soulcodedheris)
+## Writing
+- Weekly letters on the six pillars  
+  Substack link: https://your‑substack‑link
 
----
+## How I work
+- Purpose before polish. People before process. Clear steps over noise.
+- Short sentences. Plain language. Results that compound.
 
-### 🧭 My Stack
-```ts
-Tech: Next.js, Angular, React, TypeScript  
-UI: Tailwind, Framer Motion, Figma  
-Mindset: Jim Rohn + Adler + Silence + Purpose
+## Contact
+- X Twitter: https://x.com/your‑handle
+- LinkedIn: https://www.linkedin.com/in/your‑handle
+- Email: your@email
